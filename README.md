@@ -26,7 +26,6 @@ This repository is configured for Notebook.link with `.nblink/environment.yml`.
 - Optional direct notebook link:
 [Try opening `GSX2JSON-tutorial.ipynb` directly](https://notebook.link/github/SustainableUrbanSystemsLab/GSheets2API/tree/main/lab/?path=GSX2JSON-tutorial.ipynb)
 
-If a direct `?path=...` link fails with `Failed to download file ... wrong format`, use the repo link above and open the notebook manually.
 
 ## Documentation
 
