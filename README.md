@@ -4,27 +4,10 @@
 uv sync
 ```
 
-Optional quick check:
-
-```bash
-uv run python -c "import requests, pandas; print('ok')"
-```
-
-If you want to work in the notebook:
-
-```bash
-uv run --with jupyter jupyter notebook GSX2JSON-tutorial.ipynb
-```
-
 ## Notebook.link
-
-This repository is configured for Notebook.link with `.nblink/environment.yml`.
 
 - Repo in JupyterLab:
 [Open in Notebook.link (Lab)](https://notebook.link/github/SustainableUrbanSystemsLab/GSheets2API/tree/main/lab/)
-- Open `GSX2JSON-tutorial.ipynb` from the file browser after the workspace loads.
-- Optional direct notebook link:
-[Try opening `GSX2JSON-tutorial.ipynb` directly](https://notebook.link/github/SustainableUrbanSystemsLab/GSheets2API/tree/main/lab/?path=GSX2JSON-tutorial.ipynb)
 
 
 ## Documentation
