@@ -16,6 +16,13 @@ If you want to work in the notebook:
 uv run --with jupyter jupyter notebook GSX2JSON-tutorial.ipynb
 ```
 
+## Notebook.link
+
+This repository is configured for Notebook.link with `.nblink/environment.yml`.
+
+- Repo on Notebook.link: `https://notebook.link/github/SustainableUrbanSystemsLab/GSheets2API/`
+- Tutorial notebook directly: `https://notebook.link/github/SustainableUrbanSystemsLab/GSheets2API/GSX2JSON-tutorial.ipynb/`
+
 ## Documentation
 
 This API returns a given Google Sheet's rows as JSON data.
