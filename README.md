@@ -1,3 +1,21 @@
+## Local setup (uv)
+
+```bash
+uv sync
+```
+
+Optional quick check:
+
+```bash
+uv run python -c "import requests, pandas; print('ok')"
+```
+
+If you want to work in the notebook:
+
+```bash
+uv run --with jupyter jupyter notebook GSX2JSON-tutorial.ipynb
+```
+
 ## Documentation
 
 This API returns a given Google Sheet's rows as JSON data.
