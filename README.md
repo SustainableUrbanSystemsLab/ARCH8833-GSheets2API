@@ -15,7 +15,7 @@ uv run python -m ipykernel install --user --name gsheets2api --display-name "Pyt
 ## Notebook.link
 
 - Repo in JupyterLab:
-[Open in Notebook.link (Lab)](https://notebook.link/github/SustainableUrbanSystemsLab/GSheets2API/tree/main/lab/)
+[Open in Notebook.link (Lab)](https://notebook.link/github/SustainableUrbanSystemsLab/ARCH8833-GSheets2API/tree/main/lab/)
 
 
 ## Documentation
